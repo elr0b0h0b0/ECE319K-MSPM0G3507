@@ -1,5 +1,5 @@
 # ECE319K-MSPM0G3507
-ARM Assembly and C99 projects made during Introduction to Embedded Systems.
+ARM Assembly and C99 projects made during Introduction to Embedded Systems. This was a course all about programming and building systems using the TI MSPM0G3507 ARM Cortex MCU.
 ## Lab 1
 Basic ARM assembly programming. Task: Return R0 equal to the score corresponding with your name, by traversing a specified data structure and parsing out the score.
 ## Lab 2
