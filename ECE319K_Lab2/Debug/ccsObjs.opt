@@ -1,0 +1,12 @@
+"./Clock.o"
+"./Dump.o"
+"./ECE319K_Lab2.o"
+"./ECE319K_Lab2main.o"
+"./LaunchPad.o"
+"./Timer.o"
+"./UART.o"
+"./UARTbusywait.o"
+"./ticlang/startup_mspm0g3507_ticlang.o"
+"../mspm0g3507.cmd"
+-l"C:/ti/mspm0_sdk_1_10_00_05/source/ti/driverlib/lib/ticlang/m0p/mspm0g1x0x_g3x0x/driverlib.a"
+-llibc.a
