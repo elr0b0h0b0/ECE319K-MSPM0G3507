@@ -5,3 +5,4 @@ Basic ARM assembly programming. Task: Return R0 equal to the score corresponding
 ## Lab 2
 Interface a switch and an LED and program the LED to operate at a variable duty-cycle determined by the switch.
 ![demo](https://github.com/elr0b0h0b0/ECE319K-MSPM0G3507/blob/main/Lab2.gif "demo")
+## Lab 3
